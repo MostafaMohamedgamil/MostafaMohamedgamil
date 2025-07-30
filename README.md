@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **MostafaMohamedgamil/MostafaMohamedgamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -243,7 +243,7 @@ Here are some ideas to get you started:
 
 ## 📊 My Stats:
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafamohamedgamil&" alt="mostafamohamedgamil" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafamohamedgamil&" alt="mostafamohamedgamil" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafamohamedgamil&show_icons=true&locale=en&layout=compact" alt="mostafamohamedgamil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafamohamedgamil&show_icons=true&locale=en" alt="mostafamohamedgamil" /></p>
